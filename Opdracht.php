@@ -104,11 +104,7 @@ $natuurkunde = new Book("Natuurkunde: Er kan soms een appel op je hoofdvallen","
   
   
   
-  * Opdracht 10
-  *  De publischer kan nog niet 'ingevoerd' worden aan het object. Kun jij hier een method voor schrijven die dit bewerktstelligt, 
-   * maar ook zodra dit gebeurt is dit meteen op het scherm toont. (hint: echo in method)
-   * De publisher voor alle boeken is dezelfde: "De luie luipaard"
-   */
+ 
 
 
  
